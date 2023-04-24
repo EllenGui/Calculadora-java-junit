@@ -14,13 +14,6 @@ Esse projeto foi desenvolvido para estudo de testes unitários em Java utilizand
 ## Autora
 Projeto desenvolvido por [Ellen Guimarães](https://github.com/EllenGui).
 
-## Como usar
-
-1. Clone o repositório na sua máquina local.
-2. Abra o projeto em sua IDE.
-3. Execute o arquivo "Main.java".
-4. Siga as instruções no console para realizar as operações desejadas.
-
 ## Desenvolvimento
 
 O código começa importando a classe Scanner para permitir que o usuário insira informações via teclado. Em seguida, é definida uma classe chamada "Calculadora".
